@@ -1,0 +1,6 @@
+{
+  "name": "FairSplit",
+  "description": "Smart group expense splitting with Minimum Cash Flow settlement and MomPay maternal escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
